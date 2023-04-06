@@ -43,6 +43,11 @@
 * 전역하고 요리는 내가 해서 먹기. 요리 조금씩이라도 해보기.
 <br/>
 
+#### Stat
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaccHoon&show_icons=true&theme=radical)
+<br/>
+
+#### Baekjoon
 
 
 <!--
