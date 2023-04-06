@@ -45,13 +45,17 @@
 
 #### Stat
 - - -
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaccHoon&show_icons=true&theme=radical)
+![재훈's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaccHoon&show_icons=true&theme=highcontrast)
+<br/><br/>
+
+#### Most Used
+- - -
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaccHoon&layout=compact&theme=highcontrast)
 <br/><br/>
 
 #### Algorithm
 - - -
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaehoon0429)](https://solved.ac/jaehoon0429/)
-<br/>
 
 <!--
 **RaccHoon/RaccHoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
