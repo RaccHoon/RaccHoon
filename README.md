@@ -46,7 +46,7 @@
 
 #### Stat
 - - -
-![재훈's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaccHoon&show_icons=true&theme=highcontrast)
+![재훈's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaccHoon&show_icons=true)
 <br/><br/>
 
 #### Most Used
